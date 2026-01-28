@@ -1,15 +1,16 @@
-Nombre del Proyecto: qa-project-Urban-Routes-es
+# **Nombre del Proyecto: qa-project-Urban-Routes-es**
 
-Descripción: 
+## *Descripción:*
 
 El proyecto se trata de una web para solicitar un vehiculo tipo Uber donde se establece la dirección del recorrido, se ingresa el número de teléfono, tarjeta de crédito a cobrar y la selección de beneficios que tiene el modelo del carro a seleccionar como por ejemplo, helado, manta, etc.
 
-Tecnologías utilizadas:
+## *Tecnologías utilizadas:*
 
-Se instalo Selenium, Chrome driver y pytest, se apoyo con el material del curso, ayuda de los tutores, 
+Se instalo Selenium, Chrome driver y pytest, se apoyo con el material del curso, ayuda de los tutores 
+
 Gitbash, Github
+
 Pycharm system 
-El código tuvo un error por la versión de Selenium que el tutor nos ayudo a corregir.
 
 Se bajo la información requerida para el proyecto
 
@@ -17,7 +18,7 @@ Se realizo la división del contenido de la data suministrada en el archivo main
 estableciendo un archivo por separado de la data, los métodos, los test y la carpeta de utils donde se almaceno la 
 información que no debía ser modificada.
 
-Pruebas:
+## *Pruebas:*
 
 Se establecieron los Selectores para cada una de los puntos requeridos en el ejercicio No.1
 
